@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    border: 1px solid black;
+}
+
+main {
+    width: 280px;
+    margin: 0 auto;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.perfil {
+    border-bottom: 1px solid black;
+}
+
+.foto {
+    width: 125px;
+    height: 125px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+a {
+    
+    padding: 5px 12px;
+    border: 1px solid black;
+    width: 10px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 0;
+    border-bottom: 1px solid black;
+    padding: 2px;
+    font-size: 13px;
+}
+
+.primeiro {
+    margin-bottom: 40px;
+}
+
+.segundo {
+    margin-top: 20px;
+}
+
+.caixas {
+    display: flex;
+}
+
+.caixas div {
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    margin-right: 5px;
+}
+
+footer {
+    margin: 10px 20px 30px 40px;
+    border: 1px solid black;
+}
+
+.primeiro {
+    margin-bottom: 40px;
+}
+
+.segundo {
+    margin-top: 20px;
+}
+
+footer {
+    margin: 10px 20px 30px 40px;
+}
